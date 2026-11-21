@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-us-virgin-islands-canal-and-intervention-historian
-  name: Us Virgin Islands Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-us-virgin-islands-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_vi_001
+    name: Us Virgin Islands Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_002
+    name: Us Virgin Islands Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_003
+    name: Us Virgin Islands Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_004
+    name: Us Virgin Islands Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_005
+    name: Us Virgin Islands Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_006
+    name: Us Virgin Islands Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_007
+    name: Us Virgin Islands Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_008
+    name: Us Virgin Islands Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_009
+    name: Us Virgin Islands Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_010
+    name: Us Virgin Islands Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_011
+    name: Us Virgin Islands Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_012
+    name: Us Virgin Islands Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_013
+    name: Us Virgin Islands Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_014
+    name: Us Virgin Islands Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_015
+    name: Us Virgin Islands Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_016
+    name: Us Virgin Islands Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_017
+    name: Us Virgin Islands Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_018
+    name: Us Virgin Islands Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_019
+    name: Us Virgin Islands Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_020
+    name: Us Virgin Islands Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_021
+    name: Us Virgin Islands Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_022
+    name: Us Virgin Islands Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_023
+    name: Us Virgin Islands Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_024
+    name: Us Virgin Islands Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_025
+    name: Us Virgin Islands Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_026
+    name: Us Virgin Islands Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_027
+    name: Us Virgin Islands Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_028
+    name: Us Virgin Islands Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_029
+    name: Us Virgin Islands Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_030
+    name: Us Virgin Islands Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_031
+    name: Us Virgin Islands Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_032
+    name: Us Virgin Islands Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_033
+    name: Us Virgin Islands Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_034
+    name: Us Virgin Islands Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_035
+    name: Us Virgin Islands Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_036
+    name: Us Virgin Islands Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_037
+    name: Us Virgin Islands Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_038
+    name: Us Virgin Islands Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_039
+    name: Us Virgin Islands Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_040
+    name: Us Virgin Islands Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_041
+    name: Us Virgin Islands Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_042
+    name: Us Virgin Islands Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_043
+    name: Us Virgin Islands Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_044
+    name: Us Virgin Islands Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_045
+    name: Us Virgin Islands Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_046
+    name: Us Virgin Islands Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_047
+    name: Us Virgin Islands Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_048
+    name: Us Virgin Islands Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_049
+    name: Us Virgin Islands Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_050
+    name: Us Virgin Islands Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_051
+    name: Us Virgin Islands Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_052
+    name: Us Virgin Islands Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_053
+    name: Us Virgin Islands Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_054
+    name: Us Virgin Islands Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_055
+    name: Us Virgin Islands Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_056
+    name: Us Virgin Islands Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_057
+    name: Us Virgin Islands Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_058
+    name: Us Virgin Islands Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_059
+    name: Us Virgin Islands Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_060
+    name: Us Virgin Islands Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_061
+    name: Us Virgin Islands Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_062
+    name: Us Virgin Islands Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_063
+    name: Us Virgin Islands Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_064
+    name: Us Virgin Islands Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_065
+    name: Us Virgin Islands Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_066
+    name: Us Virgin Islands Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_067
+    name: Us Virgin Islands Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_068
+    name: Us Virgin Islands Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_069
+    name: Us Virgin Islands Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_070
+    name: Us Virgin Islands Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_071
+    name: Us Virgin Islands Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_072
+    name: Us Virgin Islands Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_073
+    name: Us Virgin Islands Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_074
+    name: Us Virgin Islands Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_075
+    name: Us Virgin Islands Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_076
+    name: Us Virgin Islands Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_077
+    name: Us Virgin Islands Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_078
+    name: Us Virgin Islands Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_079
+    name: Us Virgin Islands Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_080
+    name: Us Virgin Islands Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_081
+    name: Us Virgin Islands Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_082
+    name: Us Virgin Islands Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_083
+    name: Us Virgin Islands Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_084
+    name: Us Virgin Islands Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_085
+    name: Us Virgin Islands Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_086
+    name: Us Virgin Islands Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_087
+    name: Us Virgin Islands Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_088
+    name: Us Virgin Islands Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_089
+    name: Us Virgin Islands Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_090
+    name: Us Virgin Islands Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_091
+    name: Us Virgin Islands Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_092
+    name: Us Virgin Islands Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_093
+    name: Us Virgin Islands Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_094
+    name: Us Virgin Islands Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_095
+    name: Us Virgin Islands Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_096
+    name: Us Virgin Islands Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_097
+    name: Us Virgin Islands Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_098
+    name: Us Virgin Islands Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_099
+    name: Us Virgin Islands Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_100
+    name: Us Virgin Islands Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_101
+    name: Us Virgin Islands Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_102
+    name: Us Virgin Islands Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_103
+    name: Us Virgin Islands Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_104
+    name: Us Virgin Islands Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_105
+    name: Us Virgin Islands Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_106
+    name: Us Virgin Islands Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_107
+    name: Us Virgin Islands Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_108
+    name: Us Virgin Islands Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_109
+    name: Us Virgin Islands Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_110
+    name: Us Virgin Islands Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_111
+    name: Us Virgin Islands Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_112
+    name: Us Virgin Islands Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_113
+    name: Us Virgin Islands Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_114
+    name: Us Virgin Islands Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_115
+    name: Us Virgin Islands Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_116
+    name: Us Virgin Islands Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_117
+    name: Us Virgin Islands Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_118
+    name: Us Virgin Islands Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_119
+    name: Us Virgin Islands Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_120
+    name: Us Virgin Islands Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_121
+    name: Us Virgin Islands Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_122
+    name: Us Virgin Islands Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_123
+    name: Us Virgin Islands Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_124
+    name: Us Virgin Islands Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_125
+    name: Us Virgin Islands Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_126
+    name: Us Virgin Islands Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_127
+    name: Us Virgin Islands Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_128
+    name: Us Virgin Islands Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_129
+    name: Us Virgin Islands Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_130
+    name: Us Virgin Islands Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_131
+    name: Us Virgin Islands Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_132
+    name: Us Virgin Islands Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_133
+    name: Us Virgin Islands Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_134
+    name: Us Virgin Islands Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_135
+    name: Us Virgin Islands Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_136
+    name: Us Virgin Islands Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_137
+    name: Us Virgin Islands Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_138
+    name: Us Virgin Islands Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_139
+    name: Us Virgin Islands Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_140
+    name: Us Virgin Islands Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_141
+    name: Us Virgin Islands Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_142
+    name: Us Virgin Islands Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_143
+    name: Us Virgin Islands Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_144
+    name: Us Virgin Islands Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_145
+    name: Us Virgin Islands Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_146
+    name: Us Virgin Islands Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_147
+    name: Us Virgin Islands Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_148
+    name: Us Virgin Islands Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_149
+    name: Us Virgin Islands Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_150
+    name: Us Virgin Islands Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_151
+    name: Us Virgin Islands Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_152
+    name: Us Virgin Islands Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_153
+    name: Us Virgin Islands Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_154
+    name: Us Virgin Islands Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_155
+    name: Us Virgin Islands Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_156
+    name: Us Virgin Islands Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_157
+    name: Us Virgin Islands Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_158
+    name: Us Virgin Islands Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_159
+    name: Us Virgin Islands Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_160
+    name: Us Virgin Islands Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_161
+    name: Us Virgin Islands Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_162
+    name: Us Virgin Islands Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_163
+    name: Us Virgin Islands Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_164
+    name: Us Virgin Islands Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_165
+    name: Us Virgin Islands Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_166
+    name: Us Virgin Islands Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_167
+    name: Us Virgin Islands Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_168
+    name: Us Virgin Islands Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_169
+    name: Us Virgin Islands Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_vi_170
+    name: Us Virgin Islands Agent 170
+    status: ACTIVE_SCAFFOLD

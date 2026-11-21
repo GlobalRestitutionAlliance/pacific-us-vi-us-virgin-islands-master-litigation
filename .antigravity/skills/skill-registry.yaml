@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: us-virgin-islandsian-restitution-roadmap-and-qsf-trust-execution
-  name: Us Virgin Islandsian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/us-virgin-islandsian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_vi_001
+    name: Us Virgin Islands Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_002
+    name: Us Virgin Islands Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_003
+    name: Us Virgin Islands Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_004
+    name: Us Virgin Islands Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_005
+    name: Us Virgin Islands Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_006
+    name: Us Virgin Islands Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_007
+    name: Us Virgin Islands Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_008
+    name: Us Virgin Islands Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_009
+    name: Us Virgin Islands Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_010
+    name: Us Virgin Islands Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_011
+    name: Us Virgin Islands Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_012
+    name: Us Virgin Islands Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_013
+    name: Us Virgin Islands Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_014
+    name: Us Virgin Islands Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_015
+    name: Us Virgin Islands Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_016
+    name: Us Virgin Islands Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_017
+    name: Us Virgin Islands Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_018
+    name: Us Virgin Islands Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_019
+    name: Us Virgin Islands Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_020
+    name: Us Virgin Islands Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_021
+    name: Us Virgin Islands Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_022
+    name: Us Virgin Islands Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_023
+    name: Us Virgin Islands Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_024
+    name: Us Virgin Islands Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_025
+    name: Us Virgin Islands Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_026
+    name: Us Virgin Islands Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_027
+    name: Us Virgin Islands Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_028
+    name: Us Virgin Islands Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_029
+    name: Us Virgin Islands Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_030
+    name: Us Virgin Islands Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_031
+    name: Us Virgin Islands Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_032
+    name: Us Virgin Islands Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_033
+    name: Us Virgin Islands Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_034
+    name: Us Virgin Islands Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_035
+    name: Us Virgin Islands Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_036
+    name: Us Virgin Islands Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_037
+    name: Us Virgin Islands Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_038
+    name: Us Virgin Islands Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_039
+    name: Us Virgin Islands Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_040
+    name: Us Virgin Islands Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_041
+    name: Us Virgin Islands Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_042
+    name: Us Virgin Islands Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_043
+    name: Us Virgin Islands Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_044
+    name: Us Virgin Islands Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_045
+    name: Us Virgin Islands Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_046
+    name: Us Virgin Islands Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_047
+    name: Us Virgin Islands Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_048
+    name: Us Virgin Islands Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_049
+    name: Us Virgin Islands Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_050
+    name: Us Virgin Islands Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_051
+    name: Us Virgin Islands Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_052
+    name: Us Virgin Islands Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_053
+    name: Us Virgin Islands Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_054
+    name: Us Virgin Islands Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_055
+    name: Us Virgin Islands Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_056
+    name: Us Virgin Islands Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_057
+    name: Us Virgin Islands Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_058
+    name: Us Virgin Islands Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_059
+    name: Us Virgin Islands Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_060
+    name: Us Virgin Islands Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_061
+    name: Us Virgin Islands Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_062
+    name: Us Virgin Islands Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_063
+    name: Us Virgin Islands Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_064
+    name: Us Virgin Islands Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_065
+    name: Us Virgin Islands Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_066
+    name: Us Virgin Islands Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_067
+    name: Us Virgin Islands Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_068
+    name: Us Virgin Islands Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_069
+    name: Us Virgin Islands Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_070
+    name: Us Virgin Islands Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_071
+    name: Us Virgin Islands Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_072
+    name: Us Virgin Islands Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_073
+    name: Us Virgin Islands Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_074
+    name: Us Virgin Islands Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_075
+    name: Us Virgin Islands Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_076
+    name: Us Virgin Islands Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_077
+    name: Us Virgin Islands Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_078
+    name: Us Virgin Islands Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_079
+    name: Us Virgin Islands Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_080
+    name: Us Virgin Islands Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_081
+    name: Us Virgin Islands Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_082
+    name: Us Virgin Islands Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_083
+    name: Us Virgin Islands Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_084
+    name: Us Virgin Islands Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_085
+    name: Us Virgin Islands Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_086
+    name: Us Virgin Islands Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_087
+    name: Us Virgin Islands Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_088
+    name: Us Virgin Islands Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_089
+    name: Us Virgin Islands Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_090
+    name: Us Virgin Islands Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_091
+    name: Us Virgin Islands Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_092
+    name: Us Virgin Islands Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_093
+    name: Us Virgin Islands Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_094
+    name: Us Virgin Islands Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_095
+    name: Us Virgin Islands Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_096
+    name: Us Virgin Islands Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_097
+    name: Us Virgin Islands Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_098
+    name: Us Virgin Islands Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_099
+    name: Us Virgin Islands Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_100
+    name: Us Virgin Islands Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_101
+    name: Us Virgin Islands Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_102
+    name: Us Virgin Islands Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_103
+    name: Us Virgin Islands Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_104
+    name: Us Virgin Islands Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_105
+    name: Us Virgin Islands Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_106
+    name: Us Virgin Islands Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_107
+    name: Us Virgin Islands Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_108
+    name: Us Virgin Islands Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_109
+    name: Us Virgin Islands Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_110
+    name: Us Virgin Islands Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_111
+    name: Us Virgin Islands Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_112
+    name: Us Virgin Islands Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_113
+    name: Us Virgin Islands Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_114
+    name: Us Virgin Islands Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_115
+    name: Us Virgin Islands Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_116
+    name: Us Virgin Islands Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_117
+    name: Us Virgin Islands Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_118
+    name: Us Virgin Islands Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_119
+    name: Us Virgin Islands Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_120
+    name: Us Virgin Islands Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_121
+    name: Us Virgin Islands Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_122
+    name: Us Virgin Islands Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_123
+    name: Us Virgin Islands Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_124
+    name: Us Virgin Islands Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_125
+    name: Us Virgin Islands Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_126
+    name: Us Virgin Islands Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_127
+    name: Us Virgin Islands Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_128
+    name: Us Virgin Islands Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_129
+    name: Us Virgin Islands Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_130
+    name: Us Virgin Islands Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_131
+    name: Us Virgin Islands Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_132
+    name: Us Virgin Islands Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_133
+    name: Us Virgin Islands Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_134
+    name: Us Virgin Islands Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_135
+    name: Us Virgin Islands Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_136
+    name: Us Virgin Islands Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_137
+    name: Us Virgin Islands Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_138
+    name: Us Virgin Islands Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_139
+    name: Us Virgin Islands Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_140
+    name: Us Virgin Islands Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_141
+    name: Us Virgin Islands Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_142
+    name: Us Virgin Islands Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_143
+    name: Us Virgin Islands Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_144
+    name: Us Virgin Islands Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_145
+    name: Us Virgin Islands Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_146
+    name: Us Virgin Islands Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_147
+    name: Us Virgin Islands Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_148
+    name: Us Virgin Islands Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_149
+    name: Us Virgin Islands Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_150
+    name: Us Virgin Islands Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_151
+    name: Us Virgin Islands Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_152
+    name: Us Virgin Islands Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_153
+    name: Us Virgin Islands Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_154
+    name: Us Virgin Islands Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_155
+    name: Us Virgin Islands Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_156
+    name: Us Virgin Islands Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_157
+    name: Us Virgin Islands Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_158
+    name: Us Virgin Islands Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_159
+    name: Us Virgin Islands Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_160
+    name: Us Virgin Islands Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_161
+    name: Us Virgin Islands Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_162
+    name: Us Virgin Islands Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_163
+    name: Us Virgin Islands Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_164
+    name: Us Virgin Islands Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_165
+    name: Us Virgin Islands Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_166
+    name: Us Virgin Islands Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_167
+    name: Us Virgin Islands Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_168
+    name: Us Virgin Islands Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_169
+    name: Us Virgin Islands Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_170
+    name: Us Virgin Islands Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_171
+    name: Us Virgin Islands Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_172
+    name: Us Virgin Islands Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_173
+    name: Us Virgin Islands Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_174
+    name: Us Virgin Islands Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_175
+    name: Us Virgin Islands Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_176
+    name: Us Virgin Islands Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_177
+    name: Us Virgin Islands Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_178
+    name: Us Virgin Islands Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_179
+    name: Us Virgin Islands Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_180
+    name: Us Virgin Islands Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_181
+    name: Us Virgin Islands Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_182
+    name: Us Virgin Islands Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_183
+    name: Us Virgin Islands Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_184
+    name: Us Virgin Islands Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_185
+    name: Us Virgin Islands Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_186
+    name: Us Virgin Islands Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_187
+    name: Us Virgin Islands Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_188
+    name: Us Virgin Islands Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_189
+    name: Us Virgin Islands Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_190
+    name: Us Virgin Islands Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_191
+    name: Us Virgin Islands Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_192
+    name: Us Virgin Islands Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_193
+    name: Us Virgin Islands Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_194
+    name: Us Virgin Islands Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_195
+    name: Us Virgin Islands Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_196
+    name: Us Virgin Islands Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_197
+    name: Us Virgin Islands Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_198
+    name: Us Virgin Islands Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_199
+    name: Us Virgin Islands Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_200
+    name: Us Virgin Islands Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_201
+    name: Us Virgin Islands Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_202
+    name: Us Virgin Islands Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_203
+    name: Us Virgin Islands Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_204
+    name: Us Virgin Islands Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_205
+    name: Us Virgin Islands Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_206
+    name: Us Virgin Islands Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_207
+    name: Us Virgin Islands Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_208
+    name: Us Virgin Islands Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_209
+    name: Us Virgin Islands Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_210
+    name: Us Virgin Islands Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_211
+    name: Us Virgin Islands Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_212
+    name: Us Virgin Islands Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_213
+    name: Us Virgin Islands Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_214
+    name: Us Virgin Islands Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_215
+    name: Us Virgin Islands Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_216
+    name: Us Virgin Islands Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_217
+    name: Us Virgin Islands Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_218
+    name: Us Virgin Islands Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_219
+    name: Us Virgin Islands Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_220
+    name: Us Virgin Islands Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_221
+    name: Us Virgin Islands Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_222
+    name: Us Virgin Islands Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_223
+    name: Us Virgin Islands Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_224
+    name: Us Virgin Islands Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_225
+    name: Us Virgin Islands Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_226
+    name: Us Virgin Islands Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_227
+    name: Us Virgin Islands Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_228
+    name: Us Virgin Islands Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_229
+    name: Us Virgin Islands Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_230
+    name: Us Virgin Islands Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_231
+    name: Us Virgin Islands Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_232
+    name: Us Virgin Islands Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_233
+    name: Us Virgin Islands Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_234
+    name: Us Virgin Islands Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_235
+    name: Us Virgin Islands Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_236
+    name: Us Virgin Islands Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_237
+    name: Us Virgin Islands Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_238
+    name: Us Virgin Islands Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_239
+    name: Us Virgin Islands Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_240
+    name: Us Virgin Islands Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_241
+    name: Us Virgin Islands Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_242
+    name: Us Virgin Islands Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_243
+    name: Us Virgin Islands Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_244
+    name: Us Virgin Islands Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_245
+    name: Us Virgin Islands Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_246
+    name: Us Virgin Islands Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_247
+    name: Us Virgin Islands Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_248
+    name: Us Virgin Islands Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_249
+    name: Us Virgin Islands Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_250
+    name: Us Virgin Islands Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_251
+    name: Us Virgin Islands Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_vi_252
+    name: Us Virgin Islands Skill 252
+    status: ACTIVE_SCAFFOLD
